@@ -1,0 +1,47 @@
+body {
+	background: #fff;
+	color: #303030;
+	margin: 0 0 0 0;
+	overflow-x: hidden;
+}
+header {
+	height: 2em;
+	font-family: Arial;
+	font-size: 2em;
+	text-align: center;
+	margin-top: 1.5em;
+}
+.item {
+	width: 80%;
+	margin-left: 10%;
+	margin-top: 1rem;
+}
+img {
+	width: 100%;
+	border: solid 1px #646464;
+	border-radius: .6rem;
+}
+.ptxt {
+	text-align: right;
+	font-family: vazir;
+	font-size: 1.1rem;
+	margin-right: 1rem;
+}
+.atxt {
+	font-size: 1rem;
+	font-family: monospace;
+}
+.hr {
+	display: block;
+	background: #303030;
+	height: 1px;
+	width: 90%;
+	margin-left: 5%;
+	border-radius: 1em;
+	opacity: 95%;
+}
+.sectxt {
+	text-align: center;
+	font-family: monospace;
+	font-size: 1.5rem;
+}
